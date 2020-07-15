@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About
 description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
 ---
 
@@ -53,7 +53,7 @@ he/him
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
+            Kwame Forbes<br/>
             <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
             <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
             <a href="https://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
