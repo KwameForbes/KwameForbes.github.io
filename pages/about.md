@@ -38,9 +38,9 @@ he/him
         </div>
 
         <div class="span2">
-        <a href="/Users/kwameforbes/Pictures/Photos Library.photoslibrary/originals/0/0F414D4E-D7DE-43F6-BE1C-0A2EBE1A50C6.jpeg">
-            <img src="/Users/kwameforbes/Pictures/Photos Library.photoslibrary/originals/0/0F414D4E-D7DE-43F6-BE1C-0A2EBE1A50C6.jpeg"
+        <a href="https://lh3.googleusercontent.com/w9PyqP2ptOFJFKI4yBlsCNZL5uMvjXO1AB78eXQdTevRwyL0DeRxnqSdlgNAMI8tXSOn9dkOjOizABJCoLleEkheVC-9FhHQl0ncp9XA7LcMY0m-Gnq6UbOiZP7KAo0zCgGd7x-9zQ=w2400">
+            <img src="https://lh3.googleusercontent.com/w9PyqP2ptOFJFKI4yBlsCNZL5uMvjXO1AB78eXQdTevRwyL0DeRxnqSdlgNAMI8tXSOn9dkOjOizABJCoLleEkheVC-9FhHQl0ncp9XA7LcMY0m-Gnq6UbOiZP7KAo0zCgGd7x-9zQ=w2400"
                   title="Kwame Forbes" alt="Kwame Forbes"/></a>
         </div>
     </div>
-</div>
+
