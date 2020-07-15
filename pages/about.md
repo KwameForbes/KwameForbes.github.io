@@ -8,37 +8,19 @@ Kwame Forbes is a [post-bac scholar](https://www.med.unc.edu/oge/stad/prep/) at 
 with [Michael Love (UNC)](http://mikelove.github.io) on developing a feature in [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) to integrate with single-cell datasets.
 
 Kwame received a AS in [computer science](https://uvi.edu/academics/science-math/departments/computer-comp-sciences/assoc-science/default.aspx) and a BS [biology](https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/bach-science/default.aspx) with a 
-[concentration in Computational Biology](https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/computational-biology/default.aspx) in 2019, from the University of the Virgin Islands.
+[concentration in Computational Biology](https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/computational-biology/default.aspx) in 2019, from the [University of the Virgin Islands(UVI)](https://uvi.edu). During his time in undergraduate, he was a [RISE scholar](https://www.uvi.edu/research/emerging-caribbean-scientists-programs/programs1/mbrs-rise-research-scholars-program.aspx)who presented his research at [ABRCMS](https://www.abrcms.org) in 2018 and 2019. Along with research experience, Kwame was a teaching assistant for genetics and a lab instructor for intro to CompSci and for chemistry. 
+
+Kwame is passionate about computer science, biology, and research. He is aiming to get his PhD in Computational Biology and bioinformatics.
 
 
-
-Karl is a Senior Editor for [_Genetics_](http://www.genetics.org) and
-a member of the [_BMC Biology_](https://bmcbiol.biomedcentral.com)
-[Editorial Board](https://bmcbiol.biomedcentral.com/about/editorial-board).
-
-Karl is an applied statistician focusing on problems in genetics and
-genomics &ndash; particularly the analysis of meiotic recombination and the
-genetic dissection of complex traits in experimental organisms. The
-latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
-_quantitative trait locus_ &ndash; a genetic locus that influences a
-quantitative trait. He is enthusiastic about the value
-of interactive data visualizations for exploring high-dimensional genetic data;
-see his [R/qtlcharts package](https://kbroman.org/qtlcharts) and
-his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
-
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)<br/>
-[orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
-[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
-[pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=broman+kw)<br/>
-<!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
-[github](https://github.com/kbroman)<br/>
-[blog](https://kbroman.org/blog) <br/>
+[github](https://github.com/KwameForbes)<br/>
+[Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/) <br/>
 he/him
 
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
