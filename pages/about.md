@@ -26,13 +26,13 @@ he/him
         <div class="span5">
             Kwame Forbes<br/>
             <a href="http://sph.unc.edu/bios/biostatistics/">Department of Biostatistics</a><br/>
-            <a href="https://www.unc.edu">The University of North Carolina &ndash;Chapel Hill</a><br/>
+            <a href="https://www.unc.edu">The University of North Carolina&ndash;Chapel Hill</a><br/>
             <a href="https://www.google.com/maps/place/Bioinformatics+Building,+130+Mason+Farm+Rd,+Chapel+Hill,+NC+27514/@35.9027381,-79.0544156,17z/data=!4m13!1m7!3m6!1s0x89acc2faa0f3e2e9:0x931300e4c4f745d!2sBioinformatics+Building,+130+Mason+Farm+Rd,+Chapel+Hill,+NC+27514!3b1!8m2!3d35.9016909!4d-79.0532944!3m4!1s0x89acc2faa0f3e2e9:0x931300e4c4f745d!8m2!3d35.9016909!4d-79.0532944?hl=en">Bioinfomatics Building</a><br/>
             130 Mason Farm Rd<br/>
     Chapel Hill, NC 27514<br/>
             USA<br/><br/>
 
-            Email: kwamek@email.unc.edu
+            Email: kwamek@email.unc.edu<br/>
             Phone: 340-998-1733
             </div>
         </div>
