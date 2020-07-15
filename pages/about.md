@@ -3,7 +3,7 @@ layout: page
 title: About
 description: Kwame Forbes
 ---
-
+<em>As the field of science continues to advance, scientists need to be able to take computational strategies to solve increasingly complex problems. </em> <br>
 Kwame Forbes is a [post-bac scholar](https://www.med.unc.edu/oge/stad/prep/) at [UNC-CH](https://www.unc.edu) working in bioinformatics
 with [Michael Love (UNC)](http://mikelove.github.io) on developing a feature in [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) to integrate with single-cell datasets.
 
@@ -15,6 +15,7 @@ Kwame is passionate about computer science, biology, and research. He is aiming 
 
 [github](https://github.com/KwameForbes)<br/>
 [Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/) <br/>
+[Twitter](https://twitter.com/kwame_forbes) <br>
 he/him
 
 ---
