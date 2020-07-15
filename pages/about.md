@@ -8,7 +8,7 @@ Kwame Forbes is a [post-bac scholar](https://www.med.unc.edu/oge/stad/prep/) at 
 with [Michael Love (UNC)](http://mikelove.github.io) on developing a feature in [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) to integrate with single-cell datasets.
 
 Kwame received an AS in [computer science](https://uvi.edu/academics/science-math/departments/computer-comp-sciences/assoc-science/default.aspx) and a BS [biology](https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/bach-science/default.aspx) with a 
-[concentration in Computational Biology](https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/computational-biology/default.aspx) in 2019, from the [University of the Virgin Islands(UVI)](https://uvi.edu). During his time in undergraduate, he was a [RISE scholar](https://www.uvi.edu/research/emerging-caribbean-scientists-programs/programs1/mbrs-rise-research-scholars-program.aspx)who presented his research at [ABRCMS](https://www.abrcms.org) in 2018 and 2019. Along with research, Kwame was a teaching assistant for genetics and a lab instructor for intro to CompSci and for chemistry. 
+[concentration in Computational Biology](https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/computational-biology/default.aspx) in 2019, from the [University of the Virgin Islands(UVI)](https://uvi.edu). During his time in undergraduate, he was a [RISE scholar](https://www.uvi.edu/research/emerging-caribbean-scientists-programs/programs1/mbrs-rise-research-scholars-program.aspx) who presented his research at [ABRCMS](https://www.abrcms.org) in 2018 and 2019. Along with research, Kwame was a teaching assistant for genetics and a lab instructor for intro to CompSci and for chemistry. 
 
 Kwame is passionate about computer science, biology, and research. He is aiming to get his PhD in Computational Biology and Bioinformatics.
 
@@ -34,6 +34,7 @@ he/him
 
             Email: kwamek@email.unc.edu<br/>
             Phone: 340-998-1733
+            <p><a href="mailto:kwamek@email.unc.edu?Subject=Hi%20mate" target="_top">Email me</a></p>
             </div>
         </div>
 
