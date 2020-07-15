@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Kwame Forbes
-description: Hello
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+description: Kwame Forbes Professional website 
+keywords: Kwame Forbes, bioinfomatics, computational Biology, compbio
 ---
 
 <div class="navbar">
