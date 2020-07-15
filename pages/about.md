@@ -24,6 +24,7 @@ he/him
 
 <div class="container">
 <h3><a name="contact"></a>Contact</h3>
+<h3>Contact</h3>
 
     <div class="row-fluid">
         <div class="span5">
