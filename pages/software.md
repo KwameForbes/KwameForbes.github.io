@@ -17,7 +17,7 @@ description: Kwame Forbes's software
 
 ---
 
-#### <a name="qtl Sample of layout"></a>[R/qtl](https://rqtl.org)
+#### <a name="qtl"></a>[R/qtl]Sample of layout(https://rqtl.org)
 
 An [R](https://www.r-project.org/) package with tools for analyzing QTL experiments.
 
