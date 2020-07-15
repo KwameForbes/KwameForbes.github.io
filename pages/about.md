@@ -20,7 +20,7 @@ he/him
 ---
 
 <div class="container">
-<h4><a name="contact"></a>Contact</h4>
+<h3><a name="contact"></a>Contact</h3>
 
     <div class="row-fluid">
         <div class="span5">
