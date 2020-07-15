@@ -2,7 +2,7 @@
 layout: frontpage
 title: Kwame Forbes
 description: Kwame Forbes Professional website 
-keywords: Kwame Forbes, bioinfomatics, computational Biology, compbio
+keywords: Kwame Forbes, bioinfomatics, computational Biology, compbio, UNC BCB,UNC PREP,CHAPEL HILL PREP
 ---
 
 <div class="navbar">
