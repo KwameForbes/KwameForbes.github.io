@@ -3,7 +3,9 @@ layout: page
 title: About
 description: Kwame Forbes
 ---
-<em>As the field of science continues to advance, scientists need to be able to take computational strategies to solve increasingly complex problems. </em> <br>
+<em>As the field of science continues to advance, scientists need to be able to take computational strategies to solve increasingly complex problems. </em> 
+
+
 Kwame Forbes is a [post-bac scholar](https://www.med.unc.edu/oge/stad/prep/) at [UNC-CH](https://www.unc.edu) working in bioinformatics
 with [Michael Love (UNC)](http://mikelove.github.io) on developing a feature in [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) to integrate with single-cell datasets.
 
