@@ -1,23 +1,20 @@
 ---
 layout: page
-title: software
+title: Software
 description: Kwame Forbes's software
 ---
  
-# <div class="navbar">
-#     <div class="navbar-inner">
-#         <ul class="nav">
-#             <li><a href="https://github.com/kbroman">github</a></li>
-#             <li><a href="https://rqtl.org">R/qtl</a></li>
-#             <li><a href="https://kbroman.org/qtl2">R/qtl2</a></li>
-#             <li><a href="https://kbroman.org/qtlcharts">R/qtlcharts</a></li>
-#         </ul>
-#     </div>
-# </div>
+ <div class="navbar">
+     <div class="navbar-inner">
+         <ul class="nav">
+             <li><a href="https://github.com/KwameForbes">github</a></li>
+         </ul>
+     </div>
+ </div>
 
 ---
 
-#### <a name="qtl"></a>[R/qtl]Sample of layout(https://rqtl.org)
+#### <a name="qtl"></a>Code Sample
 
 An [R](https://www.r-project.org/) package with tools for analyzing QTL experiments.
 
@@ -29,7 +26,7 @@ Google group, [R/qtl discussion](https://groups.google.com/group/rqtl-disc)
 
 ---
 
-#### <a name="relcheck Sample of layout"></a>RelCheck
+#### <a name="relcheck"></a>Code Sample
 Version 0.67 (24 August 2000)
 Software for verifying relationships between all pairs of
 individuals in a linkage study, using the approach of Boehnke and Cox
@@ -65,7 +62,7 @@ List of updates to the software: \[[CHANGES.txt](https://www.biostat.wisc.edu/so
 
 ---
 
-#### <a name="f2 Sample of Layout"></a>f2
+#### <a name="f2 Sample of Layout"></a>Code Sample
 
 Version 0.50 (7 Feb 2000)
 
