@@ -38,8 +38,8 @@ he/him
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
+        <a href="/Users/kwameforbes/Pictures/Photos Library.photoslibrary/originals/0/0F414D4E-D7DE-43F6-BE1C-0A2EBE1A50C6.jpeg">
+            <img src="/Users/kwameforbes/Pictures/Photos Library.photoslibrary/originals/0/0F414D4E-D7DE-43F6-BE1C-0A2EBE1A50C6.jpeg"
                   title="Karl Broman" alt="Karl Broman"/></a>
         </div>
     </div>
