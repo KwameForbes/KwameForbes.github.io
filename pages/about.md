@@ -35,7 +35,8 @@ he/him
     Chapel Hill, NC 27514<br/>
             USA<br/><br/>
 
-            Email: kwamek@email.unc.edu<br/> | [Email me](mailto:kwamek@email.unc.edu)
+            Email: kwamek@email.unc.edu<br/>  
+            [Email me](mailto:kwamek@email.unc.edu)
             Phone: 340-998-1733
             </div>
         </div>
