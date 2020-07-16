@@ -19,6 +19,7 @@ keywords: Kwame Forbes, bioinfomatics, computational Biology, compbio, UNC BCB,U
 <em>As the field of science continues to advance, scientists need to be able to take computational strategies to solve increasingly complex problems. </em> 
 
 <h3>About</h3>
+
 <p><img style="float: right;" src="https://lh3.googleusercontent.com/w9PyqP2ptOFJFKI4yBlsCNZL5uMvjXO1AB78eXQdTevRwyL0DeRxnqSdlgNAMI8tXSOn9dkOjOizABJCoLleEkheVC-9FhHQl0ncp9XA7LcMY0m-Gnq6UbOiZP7KAo0zCgGd7x-9zQ=w2400" alt="description" width="150" height="150" title="Kwame Forbes" alt="Kwame Forbes" /></p>
 
 Kwame Forbes is a [post-bac scholar](https://www.med.unc.edu/oge/stad/prep/) at [UNC-CH](https://www.unc.edu) working in bioinformatics
