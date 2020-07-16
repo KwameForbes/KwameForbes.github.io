@@ -23,7 +23,6 @@ he/him
 ---
 
 <div class="container">
-<h3><a name="contact"></a>Contact</h3>
 <h3>Contact</h3>
 
     <div class="row-fluid">
@@ -36,9 +35,8 @@ he/him
     Chapel Hill, NC 27514<br/>
             USA<br/><br/>
 
-            Email: kwamek@email.unc.edu<br/>
+            Email: kwamek@email.unc.edu<br/> | [Email me](mailto:kwamek@email.unc.edu)
             Phone: 340-998-1733
-            <p><a href="mailto:kwamek@email.unc.edu?Subject=Hi%20mate" target="_top">Email me</a></p>
             </div>
         </div>
 
