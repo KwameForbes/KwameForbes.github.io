@@ -32,9 +32,7 @@ Kwame received an AS in [computer science](https://uvi.edu/academics/science-mat
 Kwame is passionate about computer science, biology, and research. He is aiming to get his PhD in Computational Biology and Bioinformatics.
 
 
-[github](https://github.com/KwameForbes)<br/>
-[Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/) <br/>
-[Twitter](https://twitter.com/kwame_forbes) <br>
+
 he/him
 
 ---
