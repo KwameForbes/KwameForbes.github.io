@@ -13,5 +13,5 @@ description: Kwame Forbes's software
  </div>
 
 ---
-😅
+👷‍♂️ <br>
 Ongoing project to integrate SingleCellExperiment datasets with DESeq2 results tables, making use of workflows in OSCA. <strong>New code and a vignette coming soon!</strong>
