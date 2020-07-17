@@ -20,11 +20,11 @@ keywords: Kwame Forbes, bioinfomatics, computational Biology, compbio, UNC BCB,U
 
 <h3>About</h3>
 
-Kwame Forbes is a [post-bac scholar](https://www.med.unc.edu/oge/stad/prep/) at [UNC-CH](https://www.unc.edu) working in bioinformatics
-with [Michael Love, PhD (UNC)](http://mikelove.github.io) on developing a feature in [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) to integrate with single-cell datasets.
-
 <p><img style="float: left;" src="https://lh3.googleusercontent.com/hWiWEKLp0cIgqTpA-xP_mFUJwSltEZSDmHKQNUPSFcWVbopfeAdwDBBl-bqD26Mr8I5Cj0-NmlAzqLChgTnrXR6fh7xIWmhNPYZD0FXfui5l0tLpLH5a_Ges5KtnTApKsC2W7ltByg=w2400" width="300" height="200" /></p>
 
+
+Kwame Forbes is a [post-bac scholar](https://www.med.unc.edu/oge/stad/prep/) at [UNC-CH](https://www.unc.edu) working in bioinformatics
+with [Michael Love, PhD (UNC)](http://mikelove.github.io) on developing a feature in [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) to integrate with single-cell datasets.
 
 Kwame received an AS in [computer science](https://uvi.edu/academics/science-math/departments/computer-comp-sciences/assoc-science/default.aspx) and a BS in [biology](https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/bach-science/default.aspx) with a 
 [concentration in Computational Biology](https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/computational-biology/default.aspx) in 2019, from the [University of the Virgin Islands(UVI)](https://uvi.edu). During his time in undergraduate, he was a [RISE scholar](https://www.uvi.edu/research/emerging-caribbean-scientists-programs/programs1/mbrs-rise-research-scholars-program.aspx) who presented his research at [ABRCMS](https://www.abrcms.org) in 2018 and 2019. Along with research, Kwame was a teaching assistant for genetics and a lab instructor for intro to computer science and for chemistry. 
