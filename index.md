@@ -31,7 +31,7 @@ with [Michael Love, PhD (UNC)](http://mikelove.github.io) on developing a featur
 Kwame received an AS in [computer science](https://uvi.edu/academics/science-math/departments/computer-comp-sciences/assoc-science/default.aspx) and a BS in [biology](https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/bach-science/default.aspx) with a 
 [concentration in Computational Biology](https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/computational-biology/default.aspx) in 2019, from the [University of the Virgin Islands(UVI)](https://uvi.edu). During his time in undergraduate, he was a [RISE scholar](https://www.uvi.edu/research/emerging-caribbean-scientists-programs/programs1/mbrs-rise-research-scholars-program.aspx) who presented his research at [ABRCMS](https://www.abrcms.org) in 2018 and 2019. Along with research, Kwame was a teaching assistant for genetics and a lab instructor for intro to computer science and for chemistry. 
 
-Kwame is passionate about computer science, biology, and research. He is aiming to get his PhD in Computational Biology and Bioinformatics.
+Kwame is passionate about computer science, biology, and research. He is aiming to get his PhD in Computational Biology and Bioinformatics. </p>
 
 
 
