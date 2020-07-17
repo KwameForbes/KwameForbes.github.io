@@ -18,13 +18,14 @@ keywords: Kwame Forbes, bioinfomatics, computational Biology, compbio, UNC BCB,U
 
 <em>As the field of science continues to advance, scientists need to be able to take computational strategies to solve increasingly complex problems. </em> 
 
-<h3 style="color:purple;">About</h3>
-<h3>About</h3>
+---
+<hstyle="color:purple;"3>About</h3>
 
 <p><img style="float: right;" src="https://lh3.googleusercontent.com/hWiWEKLp0cIgqTpA-xP_mFUJwSltEZSDmHKQNUPSFcWVbopfeAdwDBBl-bqD26Mr8I5Cj0-NmlAzqLChgTnrXR6fh7xIWmhNPYZD0FXfui5l0tLpLH5a_Ges5KtnTApKsC2W7ltByg=w2400" width="300" height="200" /></p>
 
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
-Kwame Forbes is a [post-bac scholar](https://www.med.unc.edu/oge/stad/prep/) at [UNC-CH](https://www.unc.edu) working in bioinformatics
+<p> Kwame Forbes is a <a href="https://www.med.unc.edu/oge/stad/prep/">post-bac scholar</a> [post-bac scholar](https://www.med.unc.edu/oge/stad/prep/) at [UNC-CH](https://www.unc.edu) working in bioinformatics
 with [Michael Love, PhD (UNC)](http://mikelove.github.io) on developing a feature in [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) to integrate with single-cell datasets.
 
 Kwame received an AS in [computer science](https://uvi.edu/academics/science-math/departments/computer-comp-sciences/assoc-science/default.aspx) and a BS in [biology](https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/bach-science/default.aspx) with a 
