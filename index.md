@@ -18,7 +18,7 @@ keywords: Kwame Forbes, bioinfomatics, computational Biology, compbio, UNC BCB,U
 
 <em>As the field of science continues to advance, scientists need to be able to take computational strategies to solve increasingly complex problems. </em> 
 
----
+----
 <h3 style="color:#01A9DB;">About</h3>
 
 <p><img style="float: right;" src="https://lh3.googleusercontent.com/hWiWEKLp0cIgqTpA-xP_mFUJwSltEZSDmHKQNUPSFcWVbopfeAdwDBBl-bqD26Mr8I5Cj0-NmlAzqLChgTnrXR6fh7xIWmhNPYZD0FXfui5l0tLpLH5a_Ges5KtnTApKsC2W7ltByg=w2400" width="300" height="200" /></p>
@@ -26,7 +26,8 @@ keywords: Kwame Forbes, bioinfomatics, computational Biology, compbio, UNC BCB,U
 <p>I am a <a href="https://www.med.unc.edu/oge/stad/prep/">post-bac scholar</a> at <a href="https://www.unc.edu">UNC-CH</a> working in bioinformatics
 with <a href="http://mikelove.github.io">Michael Love, PhD (UNC)</a> on developing a feature in <a href="https://bioconductor.org/packages/release/bioc/html/DESeq2.html">DESeq2</a> to integrate with single-cell datasets.<br><br>I received an AS in <a href="https://uvi.edu/academics/science-math/departments/computer-comp-sciences/assoc-science/default.aspx">computer science</a> and a BS in <a href="https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/bach-science/default.aspx">biology</a> with a 
 <a href="https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/computational-biology/default.aspx">concentration in Computational Biology</a> in 2019, from the <a href="https://uvi.edu">University of the Virgin Islands(UVI)</a>. During my time in undergraduate, I was a <a href="https://www.uvi.edu/research/emerging-caribbean-scientists-programs/programs1/mbrs-rise-research-scholars-program.aspx">RISE scholar</a> who presented my research at <a href="https://www.abrcms.org">ABRCMS</a> in 2018 and 2019. Along with research, I was a teaching assistant for genetics and a lab instructor for intro to computer science and for chemistry.<br><br>I am passionate about computer science, biology, and research. I am aiming to get his PhD in Computational Biology and Bioinformatics. </p><br>
----
+
+-----
 
 
 <div class="container">
