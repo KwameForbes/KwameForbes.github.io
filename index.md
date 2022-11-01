@@ -21,7 +21,7 @@ keywords: Kwame Forbes, bioinfomatics, computational Biology, compbio, UNC BCB,U
 ----
 <h3 style="color:#01A9DB;">About</h3>
 
-<p><img style="float: right;" src="[[https://lh3.googleusercontent.com/hWiWEKLp0cIgqTpA-xP_mFUJwSltEZSDmHKQNUPSFcWVbopfeAdwDBBl-bqD26Mr8I5Cj0-NmlAzqLChgTnrXR6fh7xIWmhNPYZD0FXfui5l0tLpLH5a_Ges5KtnTApKsC2W7ltByg=w2400](https://photos.google.com/photo/AF1QipNHwYv7VJJo80gPafIw1yi2-KoZh7aLcPjxj1uJ)](https://photos.app.goo.gl/sgUMtf5C4BB2u7QF9)" width="300" height="200"
+<p><img style="float: right;" src="https://photos.google.com/photo/AF1QipNHwYv7VJJo80gPafIw1yi2-KoZh7aLcPjxj1uJ" width="300" height="200"
 /></p>
 
 <p>I am a <a href="https://bbsp.unc.edu/student/kwame-forbes/">grad student</a> at <a href="https://www.unc.edu">UNC-CH</a> working on getting my Ph.D in <a href="https://bbsp.unc.edu/phd-programs/bioinformatics-computational-biology/">Bioinformatics and Computational Biology</a> co-mentored by <a href="https://tarheels.live/alemanlab/">Maria Aleman</a> and <a href="https://dominguez-lab.org/">Daniel Dominguez</a> with an interest in differential splicing.<br><br>I received my A.S in <a href="https://uvi.edu/academics/science-math/departments/computer-comp-sciences/assoc-science/default.aspx">computer science</a> and my B.S in <a href="https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/bach-science/default.aspx">biology</a> with a 
