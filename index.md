@@ -19,9 +19,9 @@ keywords: Kwame Forbes, bioinfomatics, computational Biology, compbio, UNC BCB,U
 <em>As the field of science continues to advance, scientists need to be able to take computational strategies to solve increasingly complex problems. </em> 
 
 ----
-<h3 style="color:#01A9DB;">About</h3>
+<h3 style="color:#01A9DB;">ABOUT</h3>
 
-<p><img style="float: right;" src="http://drive.google.com/uc?export=view&id=1HNomjtgAw1LoZFclbjrdln9GR6VEU0oG" width="300" height="200"
+<p><img style="float: right;" src="http://drive.google.com/uc?export=view&id=1HNomjtgAw1LoZFclbjrdln9GR6VEU0oG" width="600" height="400"
 /></p>
 
 <p>I am a <a href="https://bbsp.unc.edu/student/kwame-forbes/">grad student</a> at <a href="https://www.unc.edu">UNC-CH</a> working on getting my Ph.D in <a href="https://bbsp.unc.edu/phd-programs/bioinformatics-computational-biology/">Bioinformatics and Computational Biology</a> co-mentored by <a href="https://tarheels.live/alemanlab/">Maria Aleman</a> and <a href="https://dominguez-lab.org/">Daniel Dominguez</a> with an interest in differential splicing.<br><br>I received my A.S in <a href="https://uvi.edu/academics/science-math/departments/computer-comp-sciences/assoc-science/default.aspx">computer science</a> and my B.S in <a href="https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/bach-science/default.aspx">biology</a> with a 
