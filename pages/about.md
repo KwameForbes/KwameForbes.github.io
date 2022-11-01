@@ -6,7 +6,7 @@ description: Kwame Forbes
 <em>As the field of science continues to advance, scientists need to be able to take computational strategies to solve increasingly complex problems. </em> 
 
 
-I am a graduate student at [UNC-CH](https://www.unc.edu) co-mentored by [Maria Aleman](https://tarheels.live/alemanlab/) and [Daniel Dominguez](https://dominguez-lab.org/) in the [BCB department](https://bbsp.unc.edu/phd-programs/bioinformatics-computational-biology/).
+I am a graduate student at [UNC-CH](https://www.unc.edu) co-mentored by [Maria Aleman](https://tarheels.live/alemanlab/) and [Daniel Dominguez](https://dominguez-lab.org/) in the [BCB department](https://bbsp.unc.edu/phd-programs/bioinformatics-computational-biology/) with an interest in differential splicing.
 
 I received an AS in [computer science](https://uvi.edu/academics/science-math/departments/computer-comp-sciences/assoc-science/default.aspx) and a BS [biology](https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/bach-science/default.aspx) with a 
 [concentration in Computational Biology](https://uvi.edu/academics/science-math/departments/bio-sciences/biology-program/computational-biology/default.aspx) in 2019, from the [University of the Virgin Islands(UVI)](https://uvi.edu). During my time in undergraduate, I was a [RISE scholar](https://www.uvi.edu/research/emerging-caribbean-scientists-programs/programs1/mbrs-rise-research-scholars-program.aspx) who presented my research at [ABRCMS](https://www.abrcms.org) in 2018 and 2019. Along with research, I was a teaching assistant for genetics and a lab instructor for intro to CompSci and for chemistry. 
